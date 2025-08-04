@@ -24,4 +24,7 @@ Green, Yellow, Orange, Red, Purple (poison)
 
 Ada/Sherry health was not implemented yet (maybe in future)
 
+If my script did not detect your DuckStation, try to rename Duckstation executable into:
+duckstation-qt-x64-ReleaseLTCG.exe
+
 
